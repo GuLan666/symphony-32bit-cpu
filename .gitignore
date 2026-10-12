@@ -1,0 +1,13 @@
+# Large zero-filled files are reconstructed by tools/generate_memory.py.
+/verilog/5281115256352676631.hex
+/verilog/8272137354285170169.hex
+
+# Local simulation and Python outputs.
+*.vcd
+*.fst
+*.vvp
+__pycache__/
+*.pyc
+obj_dir/
+.DS_Store
+Thumbs.db
