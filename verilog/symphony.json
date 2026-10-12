@@ -1,0 +1,1 @@
+{"needs_clock":true,"inputs":{"in":8,"rst":1,"clk":1},"outputs":{"out":32,"out_en":1,"in_en":1},"max_ram_reset_cycles":0}
